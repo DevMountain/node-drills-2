@@ -4,11 +4,9 @@ This is for additional practice for:
 1. making requests to a server and
 2. handling incoming requests to your web server.
 
-In `server.js` you will notice that you already have the server set up for you.
+Install dependecies: `npm install`
 
-It is your job to build enpoints to handle specific requests (described in the instructions below). 
-
-Take a look at the `users.json` file to see the data that you will be interacting with.
+In `server.js` you will notice that you already have the server set up for you. yIt is your job to build endpoints to handle specific requests. Take a look at the `users.json` file to see the data that you will be interacting with.
 
 ### Endpoints
 
